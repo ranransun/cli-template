@@ -1,1 +1,3 @@
 - `npm init`
+- 在`package.json文件中`中补全bin命令,[关于bin](https://docs.npmjs.com/cli/v6/configuring-npm/package-json#bin)
+- 
