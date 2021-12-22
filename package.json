@@ -1,0 +1,24 @@
+{
+  "name": "cli-template",
+  "version": "1.0.0",
+  "description": "简易脚手架创建步骤",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranransun/cli-template.git"
+  },
+  "keywords": [
+    "cli",
+    "h5",
+    "react"
+  ],
+  "author": "yinian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranransun/cli-template/issues"
+  },
+  "homepage": "https://github.com/ranransun/cli-template#readme"
+}
