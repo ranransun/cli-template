@@ -12,14 +12,15 @@
     "url": "git+https://github.com/ranransun/cli-template.git"
   },
   "keywords": [
-    "cli",
-    "h5",
-    "react"
+    "cli"
   ],
   "author": "yinian",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ranransun/cli-template/issues"
   },
-  "homepage": "https://github.com/ranransun/cli-template#README"
+  "homepage": "https://github.com/ranransun/cli-template#README",
+  "devDependencies": {
+    "inquirer": "^8.2.0"
+  }
 }
