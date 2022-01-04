@@ -1,3 +1,3 @@
 - `npm init`
 - 在`package.json文件中`中补全bin命令,[关于bin](https://docs.npmjs.com/cli/v6/configuring-npm/package-json#bin)
-- 
+- 方便测试，使用npm link将命令将冰凌挂载到全局，可以执行`package.json` bin下的命令，如`test-cli`
